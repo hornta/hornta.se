@@ -3,7 +3,7 @@ import React from "react";
 function App() {
   return (
     <div className="container">
-      <h3>hornta's website</h3>
+      <h3>hornta&apos;s website</h3>
       <p>
         Hi and welcome to my website. I work as a web developer at one of
         Swedens largest online gambling companies where I've worked for 4 and a
