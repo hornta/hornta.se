@@ -1,24 +1,29 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+    <div className="container">
+      <h3>hornta's website</h3>
+      <p>
+        Hi and welcome to my website. I work as a web developer at one of
+        Swedens largest online gambling companies where I've worked for 4 and a
+        half year now.
+      </p>
+      <p>
+        A colleague and I are running a Minecraft server together just for fun.
+        Go check it out here:{" "}
+        <a href="https://trollskogen.nu/">https://trollskogen.nu/</a>.
+      </p>
+      <p>
+        <a href="https://github.com/hornta">GitHub</a> |
         <a
-          className="App-link"
-          href="https://reactjs.org"
+          href="mailto:hello@hornta.se"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Contact
         </a>
-      </header>
+      </p>
     </div>
   );
 }
