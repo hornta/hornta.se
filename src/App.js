@@ -7,36 +7,45 @@ function App() {
 				<h3>hornta&apos;s website</h3>
 			</header>
 			<section>
+				<h4>About me</h4>
 				<p>
-					Hi and welcome to my website. I work as a web developer at one of
-					Swedens largest online gambling companies where I&apos;ve worked for 4
-					and a half year now.
+					I am a web developer currently working for{" "}
+					<a href="https://svenskaspel.se">Svenska Spel</a> in Sweden. I have a
+					passion for open source and building large dynamic websites.
 				</p>
 				<p>
-					A colleague and I are running a Minecraft server together just for
-					fun. Go check it out here:{" "}
-					<a href="https://trollskogen.nu/">https://trollskogen.nu/</a>.
-				</p>
-				<p>
-					<a href="https://github.com/hornta">GitHub</a> |{" "}
-					<a
-						href="mailto:hello@hornta.se"
-						target="_blank"
-						rel="noopener noreferrer"
-					>
-						Contact
-					</a>
+					<a href="https://github.com/hornta">GitHub</a>
 				</p>
 			</section>
-			<hr />
+
 			<section>
-				<p>
-					This website is built using{" "}
-					<a href="https://github.com/facebook/create-react-app">
-						create-react-app
-					</a>{" "}
-					and is deployed by <a href="https://www.netlify.com/">Netlify</a>.
-				</p>
+				<h4>Work experience</h4>
+				<ul>
+					<li>
+						<p>
+							<strong>Svenska Spel AB</strong> Mar 2016 -<br />
+							<em>Front-End developer</em>
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>Karmalicious AB</strong> Aug 2015 - Jan 2016
+							<br />
+							<em>Front-End developer</em>
+						</p>
+					</li>
+				</ul>
+			</section>
+
+			<section>
+				<h4>Contact</h4>
+				<a
+					href="mailto:hello@hornta.se"
+					target="_blank"
+					rel="noopener noreferrer"
+				>
+					Mail
+				</a>
 			</section>
 		</div>
 	);
