@@ -9,13 +9,11 @@ function App() {
 			<section>
 				<h4>About me</h4>
 				<p>
-					I am a web developer currently working for{" "}
-					<a href="https://svenskaspel.se">Svenska Spel</a> in Sweden. I have a
-					passion for open source and building large dynamic websites.
+					Frontend developer currently working @{" "}
+					<a href="https://svenskaspel.se">Svenska Spel</a> in Sweden. I&apos;m
+					an avid user of React and the React ecosystem.
 				</p>
-				<p>
-					<a href="https://github.com/hornta">GitHub</a>
-				</p>
+				<p>I&apos;m always open for new possibilities and cool tech stacks.</p>
 			</section>
 
 			<section>
@@ -24,28 +22,51 @@ function App() {
 					<li>
 						<p>
 							<strong>Svenska Spel AB</strong> Mar 2016 -<br />
-							<em>Front-End developer</em>
+							<em>Frontend developer</em>
 						</p>
 					</li>
 					<li>
 						<p>
 							<strong>Karmalicious AB</strong> Aug 2015 - Jan 2016
 							<br />
-							<em>Front-End developer</em>
+							<em>Fullstack developer</em>
 						</p>
 					</li>
 				</ul>
 			</section>
 
 			<section>
-				<h4>Contact</h4>
-				<a
-					href="mailto:hello@hornta.se"
-					target="_blank"
-					rel="noopener noreferrer"
-				>
-					Mail
-				</a>
+				<h4>Hobby projects</h4>
+				<ul>
+					<li>
+						<p>
+							<strong>OpenRider</strong>
+							<br />
+							<em>
+								A soon to be open source project of FreeRiderHD written in
+								modern JavasScript and TypeScript.
+							</em>
+						</p>
+					</li>
+				</ul>
+			</section>
+
+			<section>
+				<h4>Links</h4>
+				<ul>
+					<li>
+						<a
+							href="linkedin.com/in/anthon-fredriksson-11999a18b/"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							LinkedIn
+						</a>{" "}
+					</li>
+					<li>
+						<a href="https://github.com/hornta">GitHub</a>
+					</li>
+				</ul>
 			</section>
 		</div>
 	);
