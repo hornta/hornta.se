@@ -39,6 +39,30 @@ function App() {
 			</section>
 
 			<section>
+				<h4>Links</h4>
+				<ul>
+					<li>
+						<a
+							href="HTTPS://linkedin.com/in/anthon-fredriksson-11999a18b/"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							LinkedIn
+						</a>{" "}
+					</li>
+					<li>
+						<a
+							href="https://github.com/hornta"
+							target="_blank"
+							rel="noopener noreferrer"
+						>
+							GitHub
+						</a>
+					</li>
+				</ul>
+			</section>
+
+			<section>
 				<h4>Hobby projects</h4>
 				<ul>
 					<li>
@@ -180,30 +204,6 @@ function App() {
 						SQL database. I have only used it in personal projects and at
 						Karmalicious AB where I used a Postgres extension called PostGIS for
 						querying geographically.
-					</li>
-				</ul>
-			</section>
-
-			<section>
-				<h4>Links</h4>
-				<ul>
-					<li>
-						<a
-							href="HTTPS://linkedin.com/in/anthon-fredriksson-11999a18b/"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							LinkedIn
-						</a>{" "}
-					</li>
-					<li>
-						<a
-							href="https://github.com/hornta"
-							target="_blank"
-							rel="noopener noreferrer"
-						>
-							GitHub
-						</a>
 					</li>
 				</ul>
 			</section>
