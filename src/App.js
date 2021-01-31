@@ -160,6 +160,27 @@ function App() {
 						webpack. Modern philosophies, much better DX than webpack offers. My
 						goto for creating frontend websites privately.
 					</li>
+					<li>
+						<a href="https://eslint.org/">eslint</a> - A must have when creating
+						Javascript applications of any sort. I do not write Javascript
+						without linting my code with eslint.
+					</li>
+					<li>
+						<a href="https://prettier.io/">prettier</a> - I hate wasting time on
+						formatting code. Prettier does it well and intergrates greatly into
+						eslint and IDEs
+					</li>
+					<li>
+						<a href="https://code.visualstudio.com/">Visual Studio Code</a> -
+						Every application I write in Javascript I do it in Visual Studio
+						Code. Integrates very well with eslint and Jest. Great extensions.
+					</li>
+					<li>
+						<a href="https://www.postgresql.org/">PostgreSQL</a> - My favorite
+						SQL database. I have only used it in personal projects and at
+						Karmalicious AB where I used a Postgres extension called PostGIS for
+						querying geographically.
+					</li>
 				</ul>
 			</section>
 
