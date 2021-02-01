@@ -14,9 +14,10 @@ function App() {
 						{" "}
 						Svenska Spel Sport & Casino AB
 					</a>{" "}
-					in Sweden. I&apos;m an avid user of React and the React ecosystem.
+					in Sweden. I&apos;m an avid user of React and the React ecosystem and
+					love modern Javascript.
 				</p>
-				<p>I&apos;m always open for new possibilities and cool tech stacks.</p>
+				<p>Currently I&apos;m open for something new so hit me up.</p>
 			</section>
 
 			<section>
@@ -40,6 +41,10 @@ function App() {
 
 			<section>
 				<h4>Links</h4>
+				<p>
+					Please contact me through LinkedIn. I am avoiding outing my email
+					adress because of bots.
+				</p>
 				<ul>
 					<li>
 						<a
