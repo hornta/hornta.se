@@ -91,6 +91,28 @@ function App() {
 							modern web syntaxes and api.
 						</p>
 					</li>
+					<li>
+						<p>
+							<strong>Mio Sofa-Grouper</strong>
+							<br />
+							<a href="https://github.com/hornta/mio-height-clearance">Code</a>
+							<br />A small Node.JS script to help me find a sofa to buy based
+							on height clearance below for my robot vacuum cleaner :-).
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>Trollskogen, a Minecraft server</strong>
+							<br />
+							<a href="https://trollskogen.nu">Website</a> |{" "}
+							<a href="https://github.com/TrollskogenMC">Code</a>
+							<br />
+							Trollskogen is a Minecraft server I run with a friend. I have
+							developed a number of different plugins, all of which can be found
+							in the Github organization link above. Mostly Java and some
+							Node.JS.
+						</p>
+					</li>
 				</ul>
 			</section>
 
