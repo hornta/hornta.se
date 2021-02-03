@@ -41,10 +41,7 @@ function App() {
 
 			<section>
 				<h4>Links</h4>
-				<p>
-					Please contact me through LinkedIn. I am avoiding outing my email
-					adress because of bots.
-				</p>
+				<p>Contact me through LinkedIn.</p>
 				<ul>
 					<li>
 						<a
@@ -68,7 +65,7 @@ function App() {
 			</section>
 
 			<section>
-				<h4>Hobby projects</h4>
+				<h4>Hobby web projects</h4>
 				<ul>
 					<li>
 						<p>
@@ -116,6 +113,104 @@ function App() {
 							developed a number of different plugins, all of which can be found
 							in the Github organization link above. Mostly Java and some
 							Node.JS.
+						</p>
+					</li>
+				</ul>
+			</section>
+
+			<section>
+				<h4>Hobby game projects</h4>
+				<p>
+					During my time studying game programming & design at Uppsala
+					University I created a few games, one of which me and my team went to
+					an exhibition to showcase!
+				</p>
+				<ul>
+					<li>
+						<p>
+							<strong>Tamarrion</strong>
+							<br />
+							<a href="https://github.com/hornta/Tamarrion">Code</a> |{" "}
+							<a href="https://tamarriongame.itch.io/tamarrion">Itch</a> |{" "}
+							<a href="https://www.youtube.com/watch?v=h-qkgeXz8DU&feature=youtu.be">
+								Gameplay
+							</a>
+							<br />
+							Tamarrion was develop around I believe around 2014-2015 and it was
+							the biggest game project I have been a part of. I was the Lead
+							developer at the time until I left a few years after the initial
+							release. I got to work a lot with C# and the Unity Game Engine.
+							Code may be a bit outdated. We had this game showcased at the
+							Gotland Game Conference. Team size around 6.
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>Terminal</strong>
+							<br />
+							<a href="https://github.com/hornta/Terminal">Code</a>
+							<br />
+							Hotline Miami inspired stealth game built with C++ using{" "}
+							<a href="https://www.sfml-dev.org/">SFML</a>. Team size around 4.
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>Totemic</strong>
+							<br />
+							<a href="https://github.com/hornta/totemic">Code</a> |
+							<a href="https://www.youtube.com/watch?v=5dgz6DzD2LM">Trailer</a>{" "}
+							|
+							<a href="https://game.speldesign.uu.se/projects/arcade-games/totemic/">
+								Showcase
+							</a>
+							<br />
+							Another game written in C++ using SFML. This game was made for the
+							Gotland Game Conference where a custom arcade booth was built with
+							joysticks and mash-buttons for the input. By far the most fun I
+							have had developing a game. We went all the way to Dreamhack Open
+							Jönköping to showcase this over I believe 2 days. Team size around
+							5.
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>Melvind</strong>
+							<br />
+							<a href="https://github.com/hornta/GGJ-13-Melvind">Code</a> |
+							<a href="https://melvind.itch.io/melvind">Itch</a>
+							<br />A pretty silly 2D topdown tower defence-isch game made over
+							24 hours for a game jam called Gotland Game Jam. Team size around
+							4. Made in HTML Canvas using a game library called JawsJS.
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>Turbulent Arena</strong>
+							<br />
+							<a href="https://github.com/hornta/Turbulent-Arena">Code</a> |
+							<a href="https://github.com/hornta/Turbulent-Arena/releases/tag/1.0">
+								Download (Windows only)
+							</a>
+							<br />
+							An AI-heavy game written in C++ together with a classmate for an
+							AI-course by Mike Sellers held at the university. Got to work with
+							behaviour trees, flocking behaviour and path navigation and
+							finding. Implemented the Jump Point Search algorithm which was
+							really fun and interesting.
+						</p>
+					</li>
+					<li>
+						<p>
+							<strong>Mineralistic</strong>
+							<br />
+							<a href="https://github.com/hornta/Mineralistic">Code</a> |
+							<a href="https://github.com/hornta/Mineralistic/releases/tag/v0.3">
+								Download (Windows only)
+							</a>
+							<br />
+							Not really a game but more like playing around with procedurally
+							generated terrain, in this case a 2D tile world. Made with C++.
 						</p>
 					</li>
 				</ul>
