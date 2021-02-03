@@ -158,9 +158,9 @@ function App() {
 						<p>
 							<strong>Totemic</strong>
 							<br />
-							<a href="https://github.com/hornta/totemic">Code</a> |
+							<a href="https://github.com/hornta/totemic">Code</a> |{" "}
 							<a href="https://www.youtube.com/watch?v=5dgz6DzD2LM">Trailer</a>{" "}
-							|
+							|{" "}
 							<a href="https://game.speldesign.uu.se/projects/arcade-games/totemic/">
 								Showcase
 							</a>
@@ -177,7 +177,7 @@ function App() {
 						<p>
 							<strong>Melvind</strong>
 							<br />
-							<a href="https://github.com/hornta/GGJ-13-Melvind">Code</a> |
+							<a href="https://github.com/hornta/GGJ-13-Melvind">Code</a> |{" "}
 							<a href="https://melvind.itch.io/melvind">Itch</a>
 							<br />A pretty silly 2D topdown tower defence-isch game made over
 							24 hours for a game jam called Gotland Game Jam. Team size around
@@ -188,7 +188,9 @@ function App() {
 						<p>
 							<strong>Turbulent Arena</strong>
 							<br />
-							<a href="https://github.com/hornta/Turbulent-Arena">Code</a> |
+							<a href="https://github.com/hornta/Turbulent-Arena">
+								Code
+							</a> |{" "}
 							<a href="https://github.com/hornta/Turbulent-Arena/releases/tag/1.0">
 								Download (Windows only)
 							</a>
