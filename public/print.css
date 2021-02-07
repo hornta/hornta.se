@@ -4,7 +4,6 @@
 	display: none;
 }
 
-a {
-	color: unset;
-	text-decoration: none;
+li#link-website {
+	display: list-item;
 }

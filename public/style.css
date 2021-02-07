@@ -66,3 +66,11 @@ section {
 .sub {
 	color: #3b82f6;
 }
+
+.link {
+	padding: 12px 0;
+}
+
+#link-website {
+	display: none;
+}
