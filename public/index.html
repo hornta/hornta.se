@@ -24,6 +24,26 @@
 			h4 {
 				margin: 3rem 0 1rem 0;
 			}
+
+			.menu ul {
+				list-style-type: none;
+				padding: 0px;
+			}
+
+			.menu ul:after {
+				content: "";
+				display: block;
+				clear: left;
+			}
+
+			.menu ul li {
+				float: left;
+			}
+
+			.menu ul li a {
+				padding: 12px 12px;
+				display: block;
+			}
 		</style>
 	</head>
 
@@ -32,21 +52,31 @@
 			<header>
 				<h3>hornta&apos;s website</h3>
 			</header>
+			<nav class="menu">
+				<ul>
+					<li><a href="#about-me">About me</a></li>
+					<li><a href="#work-experience">Work experience</a></li>
+					<li><a href="#links">Links</a></li>
+					<li><a href="#personal-web-projects">Personal web projects</a></li>
+					<li><a href="#personal-game-projects">Personal game projects</a></li>
+					<li><a href="#technologies">Technologies</a></li>
+				</ul>
+			</nav>
 			<section>
-				<h4>About me</h4>
+				<h4 id="about-me">About me</h4>
 				<p>
 					Frontend developer working at
 					<a href="https://spela.svenskaspel.se"
 						>Svenska Spel Sport & Casino AB</a
 					>
 					in Sweden. I&apos;m an avid user of React and the React ecosystem and
-					love modern Javascript.
+					love modern Javascript. Big interest in computer games and e-sports.
 				</p>
 				<p>I&apos;m open for something new so hit me up.</p>
 			</section>
 
 			<section>
-				<h4>Work experience</h4>
+				<h4 id="work-experience">Work experience</h4>
 				<ul>
 					<li>
 						<p>
@@ -80,7 +110,7 @@
 			</section>
 
 			<section>
-				<h4>Links</h4>
+				<h4 id="links">Links</h4>
 				<p>Contact me through LinkedIn.</p>
 				<ul>
 					<li style="padding: 12px 0">
@@ -105,7 +135,7 @@
 			</section>
 
 			<section>
-				<h4>Hobby web projects</h4>
+				<h4 id="personal-web-projects">Personal web projects</h4>
 				<ul>
 					<li>
 						<p>
@@ -160,7 +190,7 @@
 			</section>
 
 			<section>
-				<h4>Hobby game projects</h4>
+				<h4 id="personal-game-projects">Personal game projects</h4>
 				<p>
 					During my time studying game programming & design at Uppsala
 					University I created a few games, one of which me and my team went to
@@ -267,7 +297,7 @@
 			</section>
 
 			<section>
-				<h4>Technologies</h4>
+				<h4 id="technologies">Technologies</h4>
 				<p>
 					A list of some of the technologies I have worked with or touched upon.
 				</p>
