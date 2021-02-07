@@ -1,0 +1,68 @@
+body {
+	font-family: Calibri;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-size: 1.3rem;
+	margin: 1rem;
+}
+
+@media only screen and (min-width: 960px) {
+	body {
+		margin: 2rem;
+	}
+
+	.container {
+		width: 960px;
+		margin: 0 auto;
+	}
+
+	.menu ul {
+		margin-left: -1rem;
+		margin-right: -1rem;
+	}
+
+	.menu ul li a {
+		padding: 1rem;
+	}
+}
+
+h1 {
+	font-size: 1.5em;
+	margin: 0;
+}
+
+h2 {
+	margin: 0 0 1rem 0;
+	font-size: 1rem;
+	color: #626262;
+	text-transform: uppercase;
+}
+
+section {
+	margin-bottom: 4rem;
+}
+
+.menu ul {
+	list-style-type: none;
+	padding: 0;
+	margin: 1rem -0.5rem 2rem -0.5rem;
+}
+
+.menu ul:after {
+	content: "";
+	display: block;
+	clear: left;
+}
+
+.menu ul li {
+	float: left;
+}
+
+.menu ul li a {
+	padding: 0.5rem;
+	display: block;
+}
+
+.sub {
+	color: #3b82f6;
+}

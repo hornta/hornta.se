@@ -1,0 +1,10 @@
+.menu,
+#links,
+#technologies {
+	display: none;
+}
+
+a {
+	color: unset;
+	text-decoration: none;
+}
